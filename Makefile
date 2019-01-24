@@ -12,6 +12,7 @@ subup:
 
 subinit:
 	git submodule add --force -b master https://github.com/kpango/hugo-nederburg-theme themes/hugo-nederburg-theme
+	git submodule add --force -b gh-pages https://github.com/kpango/blog public
 
 subrm:
 	git submodule deinit -f --all
