@@ -1,0 +1,4 @@
+[submodule "themes/hugo-nederburg-theme"]
+	path = themes/hugo-nederburg-theme
+	url = https://github.com/kpango/hugo-nederburg-theme
+	branch = master
