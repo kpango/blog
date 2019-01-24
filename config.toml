@@ -1,3 +1,4 @@
 baseURL = "http://kpango.com/blog/"
 languageCode = "en-us"
 title = "kpango Blog"
+theme = "hugo-nederburg-theme"
