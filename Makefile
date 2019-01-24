@@ -5,7 +5,7 @@ run:
 
 deploy:
 	hugo
-	cd public && git add . && git commit -m "rebuilding site `date`" && git push origin master
+	cd public && git add . && git commit -m "rebuilding site `date`" && git push origin gh-pages
 
 subup:
 	git submodule foreach git pull origin master
